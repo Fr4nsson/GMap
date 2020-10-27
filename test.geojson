@@ -28,7 +28,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "testmarker2"
+        "name": "* Testmarker2",
+        "description": "This is a description..."
       },
       "geometry": {
         "type": "Point",
