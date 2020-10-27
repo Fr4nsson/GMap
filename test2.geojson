@@ -1,0 +1,61 @@
+var geojsonLayer = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.269531,
+          -17.14079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "testmarker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.710938,
+          -69.534518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "testmarker2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.779297,
+          -68.688521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TestLineAboveMarker"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58.798828,
+            -69.271709
+          ],
+          [
+            -48.955078,
+            -68.447662
+          ]
+        ]
+      }
+    }
+  ]
+};
