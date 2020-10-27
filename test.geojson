@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "testmarker",
+        "description": "This is a test description"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.134766,
+          -60.326948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "testmarker2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.220703,
+          -62.552857
+        ]
+      }
+    }
+  ]
+}
