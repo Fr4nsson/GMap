@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electro Crystal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.971191,
+          -73.283674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electro Crystal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.168945,
+          -73.220358
+        ]
+      }
+    }
+  ]
+}

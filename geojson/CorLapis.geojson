@@ -1,0 +1,262 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cor Lapis",
+        "description": "Inside Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.789551,
+          -69.295027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cor Lapis",
+        "description": "Inside Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.888672,
+          -69.465262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cor Lapis",
+        "description": "Inside, right next to stone wall and the pile of rubble."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.491699,
+          -59.667741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "^ * Cor Lapis",
+        "description": "Top of mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.195313,
+          -59.689926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "^ * Cor Lapis",
+        "description": "Top of mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.107422,
+          -60.511343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.95752,
+          -52.629729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.602051,
+          -57.36209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.175781,
+          -62.492028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.779785,
+          -42.309815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.087402,
+          -42.472097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.956543,
+          -45.813486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cor Lapis",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.855469,
+          4.740675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cor Lapis",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.196289,
+          4.631179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cor Lapis",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.96582,
+          3.908099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.015625,
+          -70.363091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.601074,
+          -61.058285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.588379,
+          -62.308794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cor Lapis",
+        "description": "Not actually inside, its on the right side of stairs if walking up, map ingame is kinda wrong here."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.949219,
+          -59.456243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cor Lapis",
+        "description": "Almost at top of mountain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.623535,
+          -68.407268
+        ]
+      }
+    }
+  ]
+}

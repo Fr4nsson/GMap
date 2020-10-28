@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artifact Fodder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.681641,
+          1.032659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Artifact Fodder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.758789,
+          1.296276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Loot backpack next to tent."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.00293,
+          -68.326262
+        ]
+      }
+    }
+  ]
+}

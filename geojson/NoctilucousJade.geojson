@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noctilucous Jade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.355469,
+          -73.640171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noctilucous Jade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.267578,
+          -73.689611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noctilucous Jade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.245605,
+          -73.738905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noctilucous Jade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.746582,
+          -65.192251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noctilucous Jade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.339844,
+          -64.932853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Noctilucous Jade",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.276855,
+          -66.990256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Noctilucous Jade",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.584473,
+          -66.947274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Noctilucous Jade",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.914063,
+          -66.51326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Noctilucous Jade",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.760254,
+          -66.425537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Noctilucous Jade",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.771484,
+          -66.346322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Noctilucous Jade",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.693359,
+          -60.780619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Noctilucous Jade",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.900879,
+          -72.289067
+        ]
+      }
+    }
+  ]
+}

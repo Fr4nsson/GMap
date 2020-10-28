@@ -1,0 +1,330 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.308105,
+          -55.053203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.571777,
+          -54.990222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.747559,
+          -54.826008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.461914,
+          -54.226708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.725586,
+          -54.136696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.053223,
+          -53.47497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.899414,
+          -52.829321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.525879,
+          -52.736292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.272949,
+          -52.629729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.17334,
+          -56.595791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.019531,
+          -57.100452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.953613,
+          -57.243394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.415039,
+          -56.728622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.21875,
+          -60.844911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.21875,
+          -59.92199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.943848,
+          -60.586967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.054688,
+          -61.354614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.835938,
+          -46.301406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.923828,
+          -46.468133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.143555,
+          -46.377254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.04541,
+          -44.793531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.781738,
+          -44.715514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.243164,
+          -44.621754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.943848,
+          -60.119619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.14209,
+          -60.930432
+        ]
+      }
+    }
+  ]
+}
