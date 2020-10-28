@@ -720,13 +720,11 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "LightSkyBlue",
-          "weight": "4",
-          "opacity": "1"
-        },
         "name": "* Teleport to Domain of Guyun",
-        "description": "Part of the Guyun Stone Forest farm route. For more info click the red line."
+        "description": "Part of the Guyun Stone Forest farm route. For more info click the red line.",
+        "color": "LightSkyBlue",
+        "weight": "4",
+        "opacity": "1"
       },
       "geometry": {
         "type": "LineString",
