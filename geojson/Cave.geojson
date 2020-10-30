@@ -46,6 +46,20 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* Cave",
+        "description": "Cave Entrance to Artifact Fodder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.100586,
+          -10.703792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cave",
         "description": "Next to waterfall"
       },
@@ -158,6 +172,20 @@
         "coordinates": [
           53.349609,
           -60.326948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cave",
+        "description": "Cave entrance to 7 White Iron Chunk & 1 Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -30.959473,
+          9.557417
         ]
       }
     }
