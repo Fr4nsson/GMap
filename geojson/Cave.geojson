@@ -1,0 +1,193 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cave",
+        "description": "A small cave entrance to 3x Jade and 1 Crystal, ground level next to stairs. Break rocks to see it."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.992676,
+          -73.689611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cave",
+        "description": "Cave entrance to 8x Crystal & 3x Cor Lapis.\n\nCrystal Chunk respawns ~72 hours after mining it."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.723633,
+          2.438229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cave",
+        "description": "Cave entrance to 5x Noctilucous Jade."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.81543,
+          -67.297497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cave",
+        "description": "Cave Entrance to Artifact Fodder"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.100586,
+          -10.703792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave",
+        "description": "Next to waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40625,
+          -71.910888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.03125,
+          -70.495574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.305664,
+          -42.000325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.347656,
+          -61.196213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.649414,
+          -61.554109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.220703,
+          -60.03193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.282715,
+          -74.17008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.303711,
+          -73.252045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.349609,
+          -60.326948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cave",
+        "description": "Cave entrance to 7 White Iron Chunk & 1 Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -30.959473,
+          9.557417
+        ]
+      }
+    }
+  ]
+}
