@@ -4,32 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Artifact Fodder"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.681641,
-          1.032659
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Artifact Fodder"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.758789,
-          1.296276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "* Artifact Fodder",
         "description": "Loot backpack next to tent."
       },
@@ -38,6 +12,412 @@
         "coordinates": [
           -33.00293,
           -68.326262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "In a wooden crate next to pole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.749023,
+          -4.937724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with all the urns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.792969,
+          -10.962764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with all the urns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.792969,
+          -11.135287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with all the urns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.96875,
+          -11.156845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with all the urns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.144531,
+          -11.199957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with all the urns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38.276367,
+          -11.22151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the wooden rubble"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.435059,
+          -38.908133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the wooden rubble"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.62207,
+          -36.544949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with tent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.237305,
+          -18.583776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with crate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.808594,
+          -17.790535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with crate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.664551,
+          -25.700938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with stuff on the table"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.005371,
+          -26.411551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with crate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.258301,
+          -26.214591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the urns"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.006836,
+          -27.508271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with barrel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.550293,
+          -21.207459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with broken wagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.583008,
+          -21.022983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with barrel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -39.331055,
+          -20.61222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the basket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.681641,
+          1.120534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the urn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.758789,
+          1.493971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with pouch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.698242,
+          15.114553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the red satchel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.456543,
+          15.178181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the backpack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.950684,
+          14.604847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the broken wagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.556641,
+          13.218556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the broken wagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.402832,
+          13.624633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the broken wagon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.351562,
+          2.526037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the crate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.24707,
+          -5.11283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the urn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.456543,
+          4.258768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the chest stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.907227,
+          4.499762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Artifact Fodder",
+        "description": "Interact with the backpack"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.85498,
+          27.605671
         ]
       }
     }

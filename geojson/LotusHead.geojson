@@ -547,6 +547,58 @@
           -6.708254
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotus Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.371582,
+          29.707139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotus Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.063965,
+          29.592565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotus Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.822266,
+          29.840644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotus Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.129883,
+          30.126124
+        ]
+      }
     }
   ]
 }

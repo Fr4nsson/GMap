@@ -335,6 +335,124 @@
           9.622414
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.258789,
+          -42.374778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.061035,
+          -42.114524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.017578,
+          -36.368222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.995117,
+          -28.130128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.643555,
+          -28.168875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.043945,
+          -23.180764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.187012,
+          -2.306506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.187012,
+          -2.064982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cor Lapis",
+        "description": "Inside Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.365723,
+          8.515836
+        ]
+      }
     }
   ]
 }

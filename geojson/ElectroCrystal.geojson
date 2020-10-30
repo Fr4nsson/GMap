@@ -66,6 +66,32 @@
           46.54375
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electro Crystal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.923828,
+          -17.769612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Electro Crystal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.945801,
+          -17.539297
+        ]
+      }
     }
   ]
 }

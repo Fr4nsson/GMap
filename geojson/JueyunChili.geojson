@@ -364,6 +364,110 @@
           -16.972741
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6875,
+          -21.022983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.087891,
+          29.935895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.285645,
+          29.821583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.691895,
+          31.034108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.582031,
+          31.203405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32959,
+          35.317366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.32959,
+          35.514343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.73584,
+          26.824071
+        ]
+      }
     }
   ]
 }

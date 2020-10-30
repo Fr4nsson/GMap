@@ -4,19 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.903809,
-          54.851315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "* Crystal Chunk",
         "description": "Inside Cave"
       },
@@ -347,6 +334,19 @@
         "coordinates": [
           -60.820313,
           -61.752331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.903809,
+          54.851315
         ]
       }
     },
@@ -737,6 +737,59 @@
         "coordinates": [
           20.236816,
           52.187405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.6875,
+          -41.211722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.598633,
+          -24.946219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Crystal Chunk",
+        "description": "Halfway up the mountain on a ledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.066406,
+          -6.686431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.044434,
+          -3.162456
         ]
       }
     }

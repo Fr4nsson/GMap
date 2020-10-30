@@ -1077,6 +1077,84 @@
           -66.035873
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyro Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.691895,
+          -19.580493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.032227,
+          -21.022983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.263672,
+          3.469557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruin Guard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.538574,
+          -7.667441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.412598,
+          11.802834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.64209,
+          6.620957
+        ]
+      }
     }
   ]
 }
