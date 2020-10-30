@@ -4,335 +4,333 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside Cave"
+        "name": "* Common Chest",
+        "description": "At the absolute top of the mountain, next to tree."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.789551,
-          -69.295027
+          -94.262695,
+          1.955187
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside Cave"
+        "name": "* Common Chest",
+        "description": "Top of mountain, kill mobs to unlock."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.888672,
-          -69.465262
+          -96.987305,
+          5.9439
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside, right next to stone wall and the pile of rubble."
+        "name": "* Common Chest",
+        "description": "Top of mountain."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.491699,
-          -59.667741
+          -94.614258,
+          7.580328
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
+        "name": "* Common Chest",
+        "description": "Inside wind barrier, climb up mountain and fly in to unlock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.638184,
+          0.900842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Common Chest",
+        "description": "Kill mobs to unlock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.574707,
+          -19.539084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Common Chest",
+        "description": "Kill mob to unlock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.04248,
+          -1.977147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Common Chest",
+        "description": "Top of mountain. Walk near this spot for it to appear."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.976563,
+          5.222247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Common Chest",
+        "description": "Inside cave in the corner."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.760742,
+          -66.530768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Common Chest",
+        "description": "Below, behind crates."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.810547,
+          -60.261617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Common Chest",
+        "description": "Kill mobs to unlock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.736328,
+          -71.524909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Common Chest",
         "description": "Inside cave."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.855469,
-          4.740675
+          -52.36084,
+          -69.649446
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside cave."
+        "name": "* Common Chest",
+        "description": "Under rocks"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.196289,
-          4.631179
+          -61.083984,
+          13.38962
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside cave."
+        "name": "* Common Chest",
+        "description": "Break rocks and use anemo to spawn chest"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.96582,
-          3.908099
+          66.577148,
+          65.081389
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Not actually inside, its on the right side of stairs if walking up, map ingame is kinda wrong here."
+        "name": "* Exquisite Chest",
+        "description": "Top of mountain. Spawns when you shoot the three balloons from the thing. "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.949219,
-          -59.456243
+          -90.461426,
+          4.82826
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Almost at top of mountain."
+        "name": "* Exquisite Chest",
+        "description": "Kill mobs to unlock."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.623535,
-          -68.407268
+          -90.263672,
+          -4.149201
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Top of mountain"
+        "name": "* Exquisite Chest",
+        "description": "Kill Eye of The Storm enemy to unlock."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.195313,
-          -59.689926
+          -81.013184,
+          -1.472006
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Top of mountain"
+        "name": "* Exquisite Chest",
+        "description": "Kill mobs to unlock."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.107422,
-          -60.511343
+          -74.20166,
+          -5.747174
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "* Exquisite Chest",
+        "description": "Kill mobs to unlock."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.95752,
-          -52.629729
+          -71.477051,
+          -11.113727
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "* Exquisite Chest",
+        "description": "Kill mob to unlock."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.602051,
-          -57.36209
+          -32.431641,
+          -67.08455
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "* Exquisite Chest",
+        "description": "Kill mobs to unlock."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.175781,
-          -62.492028
+          -35.683594,
+          -67.508568
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "* Exquisite Chest",
+        "description": "Kill mob to unlock."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.779785,
-          -42.309815
+          52.163086,
+          -59.411548
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Common Chest"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.087402,
-          -42.472097
+          -82.836914,
+          -1.164471
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Common Chest"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.956543,
-          -45.813486
+          -51.28418,
+          -71.12388
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Common Chest"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.015625,
-          -70.363091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.601074,
-          -61.058285
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.588379,
-          -62.308794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.33252,
-          7.275292
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.661621,
-          11.178402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.556152,
-          14.796128
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -62.336426,
-          14.668626
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -55.17334,
-          10.25006
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -56.118164,
-          9.622414
+          -71.630859,
+          -59.187185
         ]
       }
     }

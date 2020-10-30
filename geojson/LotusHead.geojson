@@ -4,6 +4,20 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* Lotus Head",
+        "description": "In water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.447754,
+          -5.637853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Lotus Head"
       },
       "geometry": {
@@ -492,6 +506,45 @@
         "coordinates": [
           -30.27832,
           -49.75288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotus Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.239258,
+          -5.659719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotus Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.942871,
+          -6.686431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lotus Head"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.525391,
+          -6.708254
         ]
       }
     }

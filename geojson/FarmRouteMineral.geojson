@@ -676,7 +676,7 @@
           "weight": "4"
         },
         "name": "* Teleport",
-        "description": "Part of the Mt. Tianheng farm route. For more info click the red line."
+        "description": "Part of the Mt. Tianheng farm route. For more info click the red line.\n"
       },
       "geometry": {
         "type": "LineString",
@@ -720,11 +720,13 @@
     {
       "type": "Feature",
       "properties": {
+        "_umap_options": {
+          "color": "LightSkyBlue",
+          "weight": "4",
+          "opacity": "1"
+        },
         "name": "* Teleport to Domain of Guyun",
-        "description": "Part of the Guyun Stone Forest farm route. For more info click the red line.",
-        "color": "LightSkyBlue",
-        "weight": "4",
-        "opacity": "1"
+        "description": "Part of the Guyun Stone Forest farm route. For more info click the red line."
       },
       "geometry": {
         "type": "LineString",

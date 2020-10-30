@@ -663,6 +663,97 @@
           -69.364831
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.524414,
+          12.661778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.678223,
+          12.726084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.810059,
+          12.640338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.522461,
+          65.201468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.192871,
+          65.053602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.083008,
+          65.256706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.599609,
+          65.118395
+        ]
+      }
     }
   ]
 }

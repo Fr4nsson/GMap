@@ -4,6 +4,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.903809,
+          54.851315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "* Crystal Chunk",
         "description": "Inside Cave"
       },
@@ -40,71 +53,6 @@
         "coordinates": [
           -51.218262,
           -69.945375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.377441,
-          -73.76964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.979004,
-          -54.213861
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.957031,
-          -53.969012
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          40.649414,
-          -53.943155
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.73877,
-          -0.285643
         ]
       }
     },
@@ -223,71 +171,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -33.134766,
-          -68.407268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -33.376465,
-          -68.415352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -33.881836,
-          -67.508568
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -34.16748,
-          -67.424364
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -33.903809,
-          -67.348325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "* Crystal Chunk",
         "description": "At cave entrance."
       },
@@ -386,45 +269,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.138184,
-          -69.572896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.808594,
-          -69.718107
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -64.094238,
-          -69.67999
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "* Crystal Chunk",
         "description": "Inside cave."
       },
@@ -503,6 +347,175 @@
         "coordinates": [
           -60.820313,
           -61.752331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.377441,
+          -73.76964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.979004,
+          -54.213861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.957031,
+          -53.969012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.649414,
+          -53.943155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.73877,
+          -0.285643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.134766,
+          -68.407268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.376465,
+          -68.415352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.881836,
+          -67.508568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -34.16748,
+          -67.424364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -33.903809,
+          -67.348325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.138184,
+          -69.572896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.808594,
+          -69.718107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.094238,
+          -69.67999
         ]
       }
     },
@@ -711,6 +724,19 @@
         "coordinates": [
           47.966309,
           -64.979359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.236816,
+          52.187405
         ]
       }
     }

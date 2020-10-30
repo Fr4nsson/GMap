@@ -18,28 +18,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "^ * Cryo Abyss Mage",
-        "description": "Top of mountain"
+        "name": "* Geovishap Hatchling",
+        "description": "Inside cave. Spawns when you get close to Crystals."
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          57.897949,
-          -59.78958
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "^ * Hydro Abyss Mage",
-        "description": "Top of mountain"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          57.963867,
-          -59.944007
+          -96.503906,
+          4.65308
         ]
       }
     },
@@ -88,20 +74,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "^ * Pyro Abyss Mage",
-        "description": "Top of mountain"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          58.249512,
-          -59.833775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "* Ruin Guard",
         "description": "Run to door and he will get stuck."
       },
@@ -138,6 +110,48 @@
         "coordinates": [
           -64.291992,
           -37.195331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "^ * Cryo Abyss Mage",
+        "description": "Top of mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.897949,
+          -59.78958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "^ * Hydro Abyss Mage",
+        "description": "Top of mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.963867,
+          -59.944007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "^ * Pyro Abyss Mage",
+        "description": "Top of mountain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.249512,
+          -59.833775
         ]
       }
     },
@@ -437,6 +451,32 @@
         "coordinates": [
           -106.040039,
           -8.537565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.317871,
+          -65.385147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.527832,
+          -61.428261
         ]
       }
     },
@@ -1035,46 +1075,6 @@
         "coordinates": [
           -54.360352,
           -66.035873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Geovishap Hatchling"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          48.317871,
-          -65.385147
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* Geovishap Hatchling",
-        "description": "Inside cave. Spawns when you get close to Crystals."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -96.503906,
-          4.65308
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Geovishap Hatchling"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -43.527832,
-          -61.428261
         ]
       }
     }

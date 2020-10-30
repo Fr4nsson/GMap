@@ -46,71 +46,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.296387,
-          -59.545457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -47.746582,
-          -59.745326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.993652,
-          -72.639931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.850586,
-          -72.52813
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -70.620117,
-          -72.428903
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "* White Iron Chunk",
         "description": "At mountain edge."
       },
@@ -175,97 +110,6 @@
         "coordinates": [
           -93.625488,
           -0.241699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.109375,
-          0.065918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.439453,
-          1.230374
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.527344,
-          1.801461
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.856934,
-          1.58183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.890137,
-          2.569939
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -91.07666,
-          2.218684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "White Iron Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -93.076172,
-          3.864255
         ]
       }
     },
@@ -398,20 +242,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "White Iron Chunk",
-        "description": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.900391,
-          2.921097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "* White Iron Chunk",
         "description": "At the absolute top of the mountain, next to tree."
       },
@@ -482,6 +312,260 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.262207,
+          -69.357086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Behind rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.239746,
+          -66.661684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Behind rock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.229004,
+          -65.802776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Almost at top of mountain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.557129,
+          -70.605319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Below the one north of this one."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.776855,
+          -70.902268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Below the one East of this one."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.172363,
+          -70.532222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.296387,
+          -59.545457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.746582,
+          -59.745326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.993652,
+          -72.639931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.850586,
+          -72.52813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.620117,
+          -72.428903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.109375,
+          0.065918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.439453,
+          1.230374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.527344,
+          1.801461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.856934,
+          1.58183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.890137,
+          2.569939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.07666,
+          2.218684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.076172,
+          3.864255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.900391,
+          2.921097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "White Iron Chunk"
       },
       "geometry": {
@@ -502,20 +586,6 @@
         "coordinates": [
           -44.362793,
           -58.274843
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Inside cave."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -51.262207,
-          -69.357086
         ]
       }
     },
@@ -704,70 +774,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Behind rock"
+        "name": "White Iron Chunk"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -53.239746,
-          -66.661684
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Behind rock"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.229004,
-          -65.802776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Almost at top of mountain."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.557129,
-          -70.605319
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Below the one north of this one."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.776855,
-          -70.902268
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Below the one East of this one."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -59.172363,
-          -70.532222
+          -13.359375,
+          -19.973349
         ]
       }
     },
@@ -779,8 +792,138 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -44.626465,
-          -60.097718
+          -56.337891,
+          11.888853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.096191,
+          11.759815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.584961,
+          54.673831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.782715,
+          54.559323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.255371,
+          54.800685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.07959,
+          55.015426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.980469,
+          55.254077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.178223,
+          55.116085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.675293,
+          55.776573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.026855,
+          55.776573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.599609,
+          51.903613
         ]
       }
     }
