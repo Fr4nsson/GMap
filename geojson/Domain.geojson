@@ -95,6 +95,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Enter the Golden House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14.72168,
+          -74.211983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Forsaken Rift"
       },
       "geometry": {
@@ -160,6 +173,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Peak of Vindagnyr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.251953,
+          0.966751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Taishan Mansion"
       },
       "geometry": {
@@ -167,32 +193,6 @@
         "coordinates": [
           -68.554688,
           -21.125498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Temple of the Wold"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          96.196289,
-          55.329144
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Valley of Remembrance"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          38.803711,
-          36.70366
         ]
       }
     },
@@ -219,6 +219,32 @@
         "coordinates": [
           84.155273,
           34.813803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Temple of the Wold"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.196289,
+          55.329144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valley of Remembrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.803711,
+          36.70366
         ]
       }
     }

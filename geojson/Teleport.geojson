@@ -798,6 +798,162 @@
           -34.921971
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.352539,
+          -5.615986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.582031,
+          0.878872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.608398,
+          -9.535749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.862305,
+          8.05923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.519531,
+          12.340002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.0625,
+          -9.579084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.458008,
+          0.219726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.222656,
+          -11.307708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.438477,
+          14.349548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.282227,
+          17.936929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.706055,
+          24.926295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Teleport Waypoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.401367,
+          31.914868
+        ]
+      }
     }
   ]
 }

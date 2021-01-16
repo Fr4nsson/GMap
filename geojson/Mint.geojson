@@ -4,557 +4,520 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside Cave"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.789551,
-          -69.295027
+          -0.219727,
+          -50.903033
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside Cave"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.888672,
-          -69.465262
+          3.867188,
+          -52.829321
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside, right next to stone wall and the pile of rubble."
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.491699,
-          -59.667741
+          5.932617,
+          -72.893802
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside cave."
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.855469,
-          4.740675
+          -63.984375,
+          -48.603858
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside cave."
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.196289,
-          4.631179
+          -62.182617,
+          -48.922499
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside cave."
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.96582,
-          3.908099
+          -60.073242,
+          -50.597186
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Not actually inside, its on the right side of stairs if walking up, map ingame is kinda wrong here."
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.949219,
-          -59.456243
+          -76.376953,
+          -48.253941
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Almost at top of mountain."
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.623535,
-          -68.407268
+          -74.838867,
+          -47.338823
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Top of mountain"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.195313,
-          -59.689926
+          -60.556641,
+          -45.39845
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Top of mountain"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.107422,
-          -60.511343
+          -65.170898,
+          -44.777936
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside Cave"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -32.365723,
-          8.515836
+          -65.742188,
+          -29.458731
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.95752,
-          -52.629729
+          -59.545898,
+          -34.161818
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.602051,
-          -57.36209
+          -57.348633,
+          -32.175612
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.175781,
-          -62.492028
+          -48.427734,
+          -36.633162
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.779785,
-          -42.309815
+          -29.355469,
+          42.55308
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.087402,
-          -42.472097
+          -38.188477,
+          43.261206
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.956543,
-          -45.813486
+          -38.935547,
+          43.261206
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.015625,
-          -70.363091
+          -49.921875,
+          37.71859
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.601074,
-          -61.058285
+          -48.823242,
+          28.72913
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.588379,
-          -62.308794
+          -41.616211,
+          24.766785
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.33252,
-          7.275292
+          -37.133789,
+          23.402765
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.661621,
-          11.178402
+          -40.297852,
+          20.96144
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.556152,
-          14.796128
+          83.62793,
+          66.035873
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.336426,
-          14.668626
+          72.290039,
+          65.201468
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -55.17334,
-          10.25006
+          62.578125,
+          55.40407
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.118164,
-          9.622414
+          56.425781,
+          56.800878
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.258789,
-          -42.374778
+          40.913086,
+          -6.577303
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.061035,
-          -42.114524
+          40.253906,
+          -5.834616
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.017578,
-          -36.368222
+          -8.701172,
+          23.966176
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.995117,
-          -28.130128
+          16.21582,
+          64.187249
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.643555,
-          -28.168875
+          23.115234,
+          59.040555
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.043945,
-          -23.180764
+          27.861328,
+          59.667741
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.187012,
-          -2.306506
+          28.432617,
+          59.778522
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.187012,
-          -2.064982
+          22.280273,
+          52.855864
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.061523,
-          -30.826781
+          22.807617,
+          52.696361
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -54.711914,
-          -32.879587
+          23.203125,
+          51.096623
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -52.77832,
-          -37.020098
+          30.366211,
+          55.553495
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -30.102539,
-          42.195969
+          33.969727,
+          55.85065
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -30.410156,
-          42.326062
+          11.90918,
+          51.399206
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Mint"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -29.882813,
-          42.423457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.262695,
-          31.765537
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.999023,
-          31.728167
+          91.582031,
+          48.57479
         ]
       }
     }

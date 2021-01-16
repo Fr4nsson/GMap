@@ -4,130 +4,143 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Anemo"
+        "name": "Bamboo Shoot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.541504,
-          66.670387
+          -48.691406,
+          37.405074
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Anemo"
+        "name": "Bamboo Shoot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          74.223633,
-          46.739861
+          -48.603516,
+          37.195331
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Anemo"
+        "name": "Bamboo Shoot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.706055,
-          43.866218
+          -48.735352,
+          35.137879
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Anemo"
+        "name": "Bamboo Shoot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -10.371094,
-          68.366801
+          -50.273438,
+          34.669359
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Anemo"
+        "name": "Bamboo Shoot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          60.117188,
-          8.971897
+          -48.955078,
+          33.760882
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Geo"
+        "name": "Bamboo Shoot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -14.80957,
-          14.944785
+          -49.086914,
+          32.990236
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Geo"
+        "name": "Bamboo Shoot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.308594,
-          -15.199386
+          -50.712891,
+          32.546813
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Geo"
+        "name": "Bamboo Shoot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -57.788086,
-          -62.400551
+          -50.009766,
+          31.728167
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Geo"
+        "name": "Bamboo Shoot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -14.853516,
-          -51.727028
+          -49.702148,
+          31.316101
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Geo"
+        "name": "Bamboo Shoot"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.117188,
-          -22.755921
+          -49.130859,
+          31.015279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bamboo Shoot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.768555,
+          27.683528
         ]
       }
     }

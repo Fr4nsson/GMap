@@ -4,557 +4,468 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside Cave"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -51.789551,
-          -69.295027
+          75.377197,
+          64.406431
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside Cave"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -50.888672,
-          -69.465262
+          75.300293,
+          64.401685
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside, right next to stone wall and the pile of rubble."
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          56.491699,
-          -59.667741
+          75.322266,
+          64.434892
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside cave."
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.855469,
-          4.740675
+          82.397461,
+          65.330178
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside cave."
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -96.196289,
-          4.631179
+          82.320557,
+          65.330178
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside cave."
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.96582,
-          3.908099
+          82.342529,
+          65.362257
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Not actually inside, its on the right side of stairs if walking up, map ingame is kinda wrong here."
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.949219,
-          -59.456243
+          86.396484,
+          67.659386
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Almost at top of mountain."
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.623535,
-          -68.407268
+          86.385498,
+          67.634317
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Top of mountain"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.195313,
-          -59.689926
+          86.451416,
+          67.642676
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Top of mountain"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          55.107422,
-          -60.511343
+          83.62793,
+          68.576441
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cor Lapis",
-        "description": "Inside Cave"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -32.365723,
-          8.515836
+          83.671875,
+          68.556368
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          38.95752,
-          -52.629729
+          83.693848,
+          68.584465
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          54.602051,
-          -57.36209
+          79.716797,
+          65.603878
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          45.175781,
-          -62.492028
+          79.771729,
+          65.58572
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -46.779785,
-          -42.309815
+          79.782715,
+          65.626557
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -47.087402,
-          -42.472097
+          69.65332,
+          64.997939
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -42.956543,
-          -45.813486
+          69.719238,
+          64.993295
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -71.015625,
-          -70.363091
+          69.697266,
+          65.025785
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -58.601074,
-          -61.058285
+          63.632813,
+          57.255281
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.588379,
-          -62.308794
+          63.69873,
+          57.237449
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -78.33252,
-          7.275292
+          63.69873,
+          57.279043
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.661621,
-          11.178402
+          63.94043,
+          59.265881
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.556152,
-          14.796128
+          63.984375,
+          59.198439
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.336426,
-          14.668626
+          64.094238,
+          59.265881
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -55.17334,
-          10.25006
+          17.094727,
+          65.640155
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -56.118164,
-          9.622414
+          17.116699,
+          65.58572
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.258789,
-          -42.374778
+          17.248535,
+          65.622023
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -65.061035,
-          -42.114524
+          22.631836,
+          59.689926
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.017578,
-          -36.368222
+          22.763672,
+          59.678835
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.995117,
-          -28.130128
+          22.697754,
+          59.76746
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -64.643555,
-          -28.168875
+          29.750977,
+          56.486762
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -45.043945,
-          -23.180764
+          29.882813,
+          56.52314
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.187012,
-          -2.306506
+          29.729004,
+          56.571589
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.187012,
-          -2.064982
+          92.8125,
+          49.724479
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.061523,
-          -30.826781
+          92.922363,
+          49.79545
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Cor Lapis"
+        "name": "Berry"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -54.711914,
-          -32.879587
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -52.77832,
-          -37.020098
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -30.102539,
-          42.195969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -30.410156,
-          42.326062
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -29.882813,
-          42.423457
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -49.262695,
-          31.765537
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cor Lapis"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.999023,
-          31.728167
+          92.944336,
+          49.681847
         ]
       }
     }

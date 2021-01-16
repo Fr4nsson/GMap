@@ -396,6 +396,146 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Inside Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.717285,
+          7.950437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Inside Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.519531,
+          7.972198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Inside Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.860352,
+          7.776309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Inside Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.420898,
+          8.080985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Inside Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.025391,
+          8.385431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Inside Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -31.948242,
+          9.232249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "Inside Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.145996,
+          8.602747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "At ground level"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.415039,
+          -55.028022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "At ground level"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.766602,
+          -55.103516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* White Iron Chunk",
+        "description": "At ground level"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.854492,
+          -54.775346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "White Iron Chunk"
       },
       "geometry": {
@@ -956,98 +1096,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Inside Cave"
+        "name": "White Iron Chunk"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -32.717285,
-          7.950437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Inside Cave"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -32.519531,
-          7.972198
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Inside Cave"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -31.860352,
-          7.776309
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Inside Cave"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -31.420898,
-          8.080985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Inside Cave"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -31.025391,
-          8.385431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Inside Cave"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -31.948242,
-          9.232249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* White Iron Chunk",
-        "description": "Inside Cave"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -32.145996,
-          8.602747
+          8.085938,
+          34.795762
         ]
       }
     },
@@ -1059,8 +1114,86 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.085938,
-          34.795762
+          -16.611328,
+          63.66576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.870117,
+          -48.661943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.133789,
+          -48.370848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.819336,
+          67.575717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.961914,
+          58.608334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.225586,
+          58.585436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Iron Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.224609,
+          58.881942
         ]
       }
     }

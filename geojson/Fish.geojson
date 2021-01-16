@@ -754,6 +754,149 @@
           65.118395
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.077148,
+          20.344627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.505859,
+          20.13847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.461914,
+          20.591652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.890625,
+          20.097206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.407227,
+          20.344627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.036133,
+          66.51326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.772461,
+          66.372755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.080078,
+          66.372755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.387695,
+          66.407955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.124023,
+          66.266856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.511719,
+          65.458261
+        ]
+      }
     }
   ]
 }

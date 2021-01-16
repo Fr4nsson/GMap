@@ -236,6 +236,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cryo Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.051758,
+          -55.998381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Fatui Electro Cicin Mage"
       },
       "geometry": {
@@ -295,6 +308,19 @@
         "coordinates": [
           52.492676,
           -59.478569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Electro Cicin Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.730469,
+          69.084257
         ]
       }
     },
@@ -542,6 +568,19 @@
         "coordinates": [
           -95.405273,
           -30.031055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hydro Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.568359,
+          -56.14555
         ]
       }
     },
@@ -860,6 +899,58 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.265625,
+          21.043491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.813477,
+          21.657428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.191406,
+          55.875311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.97168,
+          52.079506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pyro Abyss Mage"
       },
       "geometry": {
@@ -1055,6 +1146,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ruin Guard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.405273,
+          -53.852527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ruin Hunter"
       },
       "geometry": {
@@ -1075,84 +1179,6 @@
         "coordinates": [
           -54.360352,
           -66.035873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Pyro Abyss Mage"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -46.691895,
-          -19.580493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mitachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.032227,
-          -21.022983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Geovishap Hatchling"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.263672,
-          3.469557
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ruin Guard"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.538574,
-          -7.667441
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mitachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -20.412598,
-          11.802834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Geovishap Hatchling"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -25.64209,
-          6.620957
         ]
       }
     }

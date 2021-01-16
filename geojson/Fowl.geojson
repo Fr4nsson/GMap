@@ -4,6 +4,118 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* Bird",
+        "description": "Approach from East if you want to kill them efficiently as they will start fleeing if approached from the North."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.494141,
+          44.150681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Bird",
+        "description": "Approach from East if you want to kill them efficiently as they will start fleeing if approached from the North."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.384277,
+          44.056012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Bird",
+        "description": "Approach from East if you want to kill them efficiently as they will start fleeing if approached from the North."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.318359,
+          44.182204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Bird",
+        "description": "Will flee if you teleport to the teleport next to the birds. You won't be able to kill them. I recommend to start farming Fowl and Raw Meat from the teleport east of here inside Qingce Village."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.548828,
+          40.84706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Bird",
+        "description": "Will flee if you teleport to the teleport next to the birds. You won't be able to kill them. I recommend to start farming Fowl and Raw Meat from the teleport east of here inside Qingce Village."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.856445,
+          40.84706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Bird",
+        "description": "Will flee if you teleport to the teleport next to the birds. You won't be able to kill them. I recommend to start farming Fowl and Raw Meat from the teleport east of here inside Qingce Village."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.702637,
+          40.963308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Bird",
+        "description": "Will flee if you teleport to the teleport next to the birds. You won't be able to kill them. I recommend to start farming Fowl and Raw Meat from the teleport east of here inside Qingce Village."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.702637,
+          40.763901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Seagull",
+        "description": "Top of stone structure."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.109375,
+          48.487486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Bird"
       },
       "geometry": {
@@ -615,6 +727,1085 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.934082,
+          3.162456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.912109,
+          2.964984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -44.758301,
+          3.074695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.087891,
+          3.052754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.489258,
+          -1.955187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.1875,
+          -55.453941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.967773,
+          -55.304138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.407227,
+          -55.254077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42.1875,
+          -55.128649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.339844,
+          -58.7682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.076172,
+          -58.83649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.889648,
+          -52.988337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.850586,
+          -50.233152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.892578,
+          -49.009051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.829102,
+          -44.496505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.960938,
+          -44.902578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.477539,
+          -44.746733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.083984,
+          -33.651208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.083984,
+          -33.358062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.435547,
+          -33.504759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.327148,
+          -32.398516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.151367,
+          -32.583849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.712891,
+          -36.137875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.625,
+          -36.350527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.120117,
+          -35.746512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.427734,
+          -35.85344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.097656,
+          -33.870416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.833984,
+          -34.016242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.651367,
+          41.47566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.475586,
+          41.672912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.124023,
+          41.607228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.361328,
+          38.993572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.273438,
+          39.232253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.800781,
+          39.232253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.707031,
+          64.997939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.102539,
+          64.320872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.366211,
+          64.339908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.34375,
+          63.704722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.563477,
+          63.821288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.651367,
+          63.704722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.936523,
+          64.848937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.628906,
+          64.90491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.848633,
+          64.997939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.628906,
+          64.774125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.254883,
+          64.434892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.947266,
+          64.491725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.254883,
+          64.567319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.694336,
+          67.558948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.386719,
+          67.508568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.958008,
+          67.625954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.606445,
+          67.441229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.958008,
+          67.525373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.914063,
+          67.407487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.145508,
+          68.350594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.40918,
+          68.334376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.168945,
+          66.319861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.344727,
+          66.196009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.674805,
+          63.840668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.446289,
+          55.627996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.53418,
+          55.801281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.226563,
+          55.899956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.138672,
+          55.72711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.633789,
+          56.194481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.897461,
+          56.292157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.941406,
+          56.12106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.633789,
+          56.0475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.589844,
+          56.36525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.326172,
+          56.12106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.238281,
+          56.316537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.40332,
+          56.511018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.963867,
+          56.752723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.270508,
+          61.037012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.380371,
+          61.100789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.512207,
+          61.079544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.512207,
+          61.015725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.237305,
+          61.93895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.413086,
+          62.062733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.500977,
+          61.918271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.02832,
+          67.390599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.098633,
+          49.809632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.791016,
+          49.75288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.834961,
+          49.95122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.098633,
+          50.007739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Duck"
       },
       "geometry": {
@@ -1075,32 +2266,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -35.925293,
-          47.15984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sea Gull"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -36.386719,
-          47.025206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sea Gull"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -44.34082,
           33.979809
         ]
@@ -1166,84 +2331,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.73877,
-          66.116068
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sea Gull"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.672852,
-          66.035873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sea Gull"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.562988,
-          65.964377
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sea Gull"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          62.182617,
-          60.726944
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sea Gull"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          62.226563,
-          60.586967
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sea Gull"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          62.446289,
-          60.769891
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Sea Gull"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -37.661133,
           -1.142502
         ]
@@ -1278,71 +2365,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bird"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.934082,
-          3.162456
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bird"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.912109,
-          2.964984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bird"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -44.758301,
-          3.074695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bird"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -45.087891,
-          3.052754
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bird"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -21.489258,
-          -1.955187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Sea Gull"
       },
       "geometry": {
@@ -1363,6 +2385,357 @@
         "coordinates": [
           8.151855,
           29.878755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.925293,
+          47.15984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.386719,
+          47.025206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.73877,
+          66.116068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.672852,
+          66.035873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.562988,
+          65.964377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.182617,
+          60.726944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.226563,
+          60.586967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.446289,
+          60.769891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.678711,
+          -55.825973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.074219,
+          -54.901882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.832031,
+          -55.37911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.788086,
+          -55.178868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.646484,
+          -52.562995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.954102,
+          -51.971346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.921875,
+          -59.288332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.702148,
+          -59.175928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32.34375,
+          41.442726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.475586,
+          65.820782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.958984,
+          65.802776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.401367,
+          67.892086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.959961,
+          57.961503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.944336,
+          48.107431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.757813,
+          46.950262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.197266,
+          45.890008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8125,
+          37.857507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.735352,
+          37.649034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.823242,
+          37.892196
         ]
       }
     }

@@ -4,130 +4,169 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Anemo"
+        "name": "Dandelion Seed"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          77.541504,
-          66.670387
+          75.19043,
+          64.997939
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Anemo"
+        "name": "Dandelion Seed"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          74.223633,
-          46.739861
+          75.234375,
+          64.811557
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Anemo"
+        "name": "Dandelion Seed"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.706055,
-          43.866218
+          74.443359,
+          64.71788
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Anemo"
+        "name": "Dandelion Seed"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -10.371094,
-          68.366801
+          55.942383,
+          56.535258
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Anemo"
+        "name": "Dandelion Seed"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          60.117188,
-          8.971897
+          55.458984,
+          56.46249
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Geo"
+        "name": "Dandelion Seed"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -14.80957,
-          14.944785
+          55.195313,
+          56.0475
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Geo"
+        "name": "Dandelion Seed"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.308594,
-          -15.199386
+          57.041016,
+          57.468589
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Geo"
+        "name": "Dandelion Seed"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -57.788086,
-          -62.400551
+          57.480469,
+          57.704147
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Geo"
+        "name": "Dandelion Seed"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -14.853516,
-          -51.727028
+          56.99707,
+          57.868132
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Statue of The Seven - Geo"
+        "name": "Dandelion Seed"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          15.117188,
-          -22.755921
+          57.216797,
+          58.147519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dandelion Seed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.733398,
+          60.305185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dandelion Seed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.866211,
+          61.689872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dandelion Seed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.324219,
+          51.727028
         ]
       }
     }

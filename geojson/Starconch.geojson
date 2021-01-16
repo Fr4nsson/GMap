@@ -4,262 +4,260 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "* Electro Crystal",
-        "description": "Next to White Iron Chunk, not on mountain."
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.257813,
-          55.652798
+          13.886719,
+          -55.329144
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Electro Crystal",
-        "description": "Not on top"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -26.630859,
-          65.712557
+          13.447266,
+          -53.514185
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -72.971191,
-          -73.283674
+          11.865234,
+          -53.852527
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.168945,
-          -73.220358
+          11.337891,
+          -52.696361
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.90625,
-          47.872144
+          9.624023,
+          -54.41893
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          37.30957,
-          46.54375
+          12.128906,
+          -56.632064
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.923828,
-          -17.769612
+          14.238281,
+          -57.751076
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -41.945801,
-          -17.539297
+          15.336914,
+          -55.998381
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.675781,
-          64.699105
+          7.69043,
+          -51.069017
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -19.204102,
-          65.07213
+          6.240234,
+          -51.124213
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -22.412109,
-          67.08455
+          5.668945,
+          -49.61071
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -23.15918,
-          67.339861
+          4.042969,
+          -49.781264
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -24.56543,
-          69.224997
+          3.735352,
+          -49.496675
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -28.916016,
-          67.974634
+          3.647461,
+          -48.980217
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -29.355469,
-          67.390599
+          2.636719,
+          -47.15984
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -29.311523,
-          67.525373
+          2.329102,
+          -44.621754
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -62.006836,
-          -32.138409
+          3.515625,
+          -43.452919
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          26.586914,
-          57.657158
+          5.097656,
+          -42.293564
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.922852,
-          43.612217
+          5.625,
+          -42.972502
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Electro Crystal"
+        "name": "Starconch"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          91.054688,
-          43.421009
+          5.009766,
+          -40.044438
         ]
       }
     }
