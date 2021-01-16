@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "* Bird",
-        "description": "Approach from East if you want to kill them efficiently as they will start fleeing if approached from the North."
+        "description": "Approach from East if you want to kill them efficiently as they will start fleeing if approached from South."
       },
       "geometry": {
         "type": "Point",
@@ -19,7 +19,7 @@
       "type": "Feature",
       "properties": {
         "name": "* Bird",
-        "description": "Approach from East if you want to kill them efficiently as they will start fleeing if approached from the North."
+        "description": "Approach from East if you want to kill them efficiently as they will start fleeing if approached from South."
       },
       "geometry": {
         "type": "Point",
@@ -33,7 +33,7 @@
       "type": "Feature",
       "properties": {
         "name": "* Bird",
-        "description": "Approach from East if you want to kill them efficiently as they will start fleeing if approached from the North."
+        "description": "Approach from East if you want to kill them efficiently as they will start fleeing if approached from South."
       },
       "geometry": {
         "type": "Point",
