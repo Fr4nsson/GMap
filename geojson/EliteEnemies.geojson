@@ -1302,7 +1302,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Abyss Mage Hydro"
+        "name": "Hydro Abyss Mage"
       },
       "geometry": {
         "type": "Point",
@@ -1393,7 +1393,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Abyss Mage Cryo"
+        "name": "Cryo Abyss Mage"
       },
       "geometry": {
         "type": "Point",
