@@ -5,45 +5,45 @@ Pictures follows this naming convention:
 -----------------------------
 Chests:
 -----------------------------
-Ch  = Chest
-C   = Common 
-E   = Exquisite 
-P   = Precious 
-L   = Luxerious 
+Ch      = Chest
+C       = Common 
+E       = Exquisite 
+P       = Precious 
+L       = Luxerious 
 coordinates with two decimals
 extension
 
-Example: 		Ch-P-30-05-56-65.jpg
-Translation: 	Precious chest at coordinates 30.05 56.65
+Example:     Ch-P-30-05-56-65.jpg
+Translation: Precious chest at coordinates 30.05 56.65
 
 
 
 -----------------------------
 Culus:
 -----------------------------
-Cu  = Culus
-A   = Anemo
-C   = Cryo
-D   = Dendro
-E   = Electro
-G   = Geo
-H   = Hydro
-P   = Pyro
+Cu      = Culus
+A       = Anemo
+C       = Cryo
+D       = Dendro
+E       = Electro
+G       = Geo
+H       = Hydro
+P       = Pyro
 coordinates with two decimals
 extension
 
-Example: Cu-A-30-05-56-65.jpg
+Example:  Cu-A-30-05-56-65.jpg
 
 
 
 -----------------------------
 Agate:
 -----------------------------
-Ag = Agate
+Ag      = Agate
 coordinates with two decimals
 extension
 
-Example: Ag-30-05-56-65.jpg
+Example:  Ag-30-05-56-65.jpg
 
 
 
@@ -70,7 +70,7 @@ UHc     = Unusual Hilichurl
 coordinates with two decimals
 extension
 
-Example: En-El-Mc-30-05-56-65.jpg
-Example: En-UHc-30-05-56-65.jpg
+Example:  En-El-Mc-30-05-56-65.jpg
+Example:  En-UHc-30-05-56-65.jpg
 
 
