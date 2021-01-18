@@ -517,7 +517,7 @@
       "type": "Feature",
       "properties": {
         "name": "* Precious Chest",
-        "description": "Kill mobs to unlock.\n[img]markers/chest/comment/ChestPreciousMondstadt.png[/img]"
+        "description": "Kill mobs to unlock. <img src="markers/chest/comment/ChestPreciousMondstadt.png">"
       },
       "geometry": {
         "type": "Point",
