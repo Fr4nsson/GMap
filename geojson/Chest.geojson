@@ -186,6 +186,62 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* Common Chest",
+        "description": "Next to tree, kill mobs to unlock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.549316,
+          -6.970049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Common Chest",
+        "description": "Under the slanted stone wall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.009766,
+          38.151837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Common Chest",
+        "description": "Break rocks to spawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.075684,
+          24.826625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Common Chest",
+        "description": "Break rocks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.536133,
+          75.419921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "* Exquisite Chest",
         "description": "Top of mountain. Spawns when you shoot the three balloons from the thing. "
       },
@@ -298,6 +354,62 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* Exquisite Chest",
+        "description": "Solve the lantern puzzle next to this chest to spawn it. Head west to the ladder and smash pointy rock and bring shiny thing to lantern."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.945313,
+          0.219726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Exquisite Chest",
+        "description": "Interact with the three balloon thingy and shoot them to spawn this chest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.637207,
+          -6.009459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Exquisite Chest",
+        "description": "Solve lantern puzzle to spawn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.077148,
+          -9.0804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Exquisite Chest",
+        "description": "Unlocked by the Seelie just South West of here."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.291992,
+          67.356785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Common Chest"
       },
       "geometry": {
@@ -337,76 +449,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "* Exquisite Chest",
-        "description": "Solve the lantern puzzle next to this chest to spawn it. Head west to the ladder and smash pointy rock and bring shiny thing to lantern."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.945313,
-          0.219726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* Exquisite Chest",
-        "description": "Interact with the three balloon thingy and shoot them to spawn this chest"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.637207,
-          -6.009459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* Common Chest",
-        "description": "Next to tree, kill mobs to unlock."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.549316,
-          -6.970049
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* Exquisite Chest",
-        "description": "Solve lantern puzzle to spawn"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.077148,
-          -9.0804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "* Common Chest",
-        "description": "Under the slanted stone wall"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.009766,
-          38.151837
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Common Chest"
       },
       "geometry": {
@@ -420,14 +462,68 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "* Common Chest",
-        "description": "Break rocks to spawn"
+        "name": "Common Chest"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.075684,
-          24.826625
+          -40.869141,
+          20.879343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Luxurious Chest",
+        "description": "Climb to the top of the building to reach it."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.100586,
+          61.731526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Luxurious Chest",
+        "description": "Climb to the top of the building to reach it."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.077148,
+          57.984808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luxurious Chest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.496094,
+          74.176073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Precious Chest",
+        "description": "Kill mobs to unlock.\n[img]markers/chest/comment/ChestPreciousMondstadt.png[/img]"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.058594,
+          56.656226
         ]
       }
     }
