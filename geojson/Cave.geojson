@@ -60,6 +60,20 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* Cave",
+        "description": "Cave entrance to 7 White Iron Chunk & 1 Cor Lapis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -30.959473,
+          9.557417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cave",
         "description": "Next to waterfall"
       },
@@ -178,14 +192,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cave",
-        "description": "Cave entrance to 7 White Iron Chunk & 1 Cor Lapis"
+        "name": "Cave"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -30.959473,
-          9.557417
+          42.615967,
+          36.438961
         ]
       }
     }

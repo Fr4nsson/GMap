@@ -348,6 +348,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -74.575195,
+          -10.919618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magical Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -60.732422,
           -73.837058
         ]
@@ -376,6 +389,139 @@
         "coordinates": [
           -60.161133,
           -74.013493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magical Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87207,
+          -10.919618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magical Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.529785,
+          -6.184246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magical Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.881592,
+          -6.293459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magical Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.199951,
+          -4.631179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magical Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.815186,
+          -4.97056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Magical Crystal Chunk",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.231445,
+          35.755428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Magical Crystal Chunk",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.165527,
+          35.128894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Magical Crystal Chunk",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.835938,
+          36.137875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magical Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.716309,
+          50.951506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Magical Crystal Chunk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.452393,
+          50.805935
         ]
       }
     }
