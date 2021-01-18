@@ -201,6 +201,46 @@
           36.438961
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.124023,
+          8.624472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.066406,
+          -5.834616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cave",
+        "description": "Underground cave to artifact fodder."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.054688,
+          -8.015716
+        ]
+      }
     }
   ]
 }
