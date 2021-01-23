@@ -18,6 +18,104 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* Lotus Head",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.161133,
+          21.166484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Lotus Head",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.205078,
+          20.055931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Lotus Head",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.820313,
+          19.973349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Lotus Head",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.017578,
+          19.725342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Lotus Head",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.753906,
+          19.973349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Lotus Head",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.490234,
+          19.766704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Lotus Head",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.402344,
+          20.838278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Lotus Head"
       },
       "geometry": {

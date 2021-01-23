@@ -74,6 +74,34 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* Cave",
+        "description": "Underground cave to artifact fodder."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.054688,
+          -8.015716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Cave",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.754883,
+          -3.250209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Cave",
         "description": "Next to waterfall"
       },
@@ -231,14 +259,143 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "* Cave",
-        "description": "Underground cave to artifact fodder."
+        "name": "Cave"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          46.054688,
-          -8.015716
+          23.15918,
+          -19.55979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.282227,
+          -19.186678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.501953,
+          -23.765237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.379883,
+          -10.401378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.558594,
+          -6.227934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.163086,
+          -8.754795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.545898,
+          -1.406109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.3125,
+          -27.916767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.405273,
+          26.115986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.841797,
+          28.420391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cave"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.162109,
+          20.509355
         ]
       }
     }

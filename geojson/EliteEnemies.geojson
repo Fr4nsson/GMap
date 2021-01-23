@@ -18,6 +18,20 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* Fatui Electro Cicin Mage",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.588867,
+          32.398516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "* Geovishap Hatchling",
         "description": "Inside cave. Spawns when you get close to Crystals."
       },
@@ -32,6 +46,20 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "* Hydro Abyss Mage",
+        "description": "Go near for it to spawn."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.273438,
+          -8.363693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "* Mitachurl",
         "description": "Climb wall to reach him"
       },
@@ -40,6 +68,48 @@
         "coordinates": [
           -74.619141,
           -74.283563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Mitachurl",
+        "description": "Go near for him to spawn."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -50.712891,
+          -39.504041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Mitachurl",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.521484,
+          -29.190533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Mitachurl",
+        "description": "Inside cave."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.328125,
+          26.980829
         ]
       }
     },
@@ -68,6 +138,34 @@
         "coordinates": [
           -72.509766,
           -65.275094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Pyro Abyss Mage",
+        "description": "Light the 4 braziers and kill the small pyro slimes for it to spawn. Maybe only spawns once, will have to follow up on it."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.40625,
+          0.439449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "* Pyro Abyss Mage",
+        "description": "Light the brazier for it to spawn. Maybe only spawns once, will have to follow up on it."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.240234,
+          -34.813803
         ]
       }
     },
@@ -262,6 +360,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cryo Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -26.894531,
+          -42.000325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cryo Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.691406,
+          23.725012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Cryo Cicin Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.114258,
+          -8.928487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Fatui Electro Cicin Mage"
       },
       "geometry": {
@@ -340,6 +477,58 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Fatui Electro Cicin Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.601563,
+          73.652545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Electro Cicin Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.130859,
+          2.723583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Electro Cicin Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27.641602,
+          30.145127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Electro Cicin Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.224609,
+          -33.797409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Fatui Pyro Agent"
       },
       "geometry": {
@@ -399,6 +588,58 @@
         "coordinates": [
           -29.904785,
           -43.261206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Pyro Agent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.710938,
+          -4.127285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Pyro Agent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.291992,
+          -30.86451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frostarm Lawachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.631836,
+          -2.196727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frostarm Lawachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.18457,
+          -12.168226
         ]
       }
     },
@@ -522,6 +763,123 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.529297,
+          -57.279043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.28125,
+          28.960089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45.307617,
+          3.381824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.532227,
+          6.708254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.730469,
+          -13.496473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.533203,
+          -9.232249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.258789,
+          -3.995781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.588867,
+          21.166484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Geovishap Hatchling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.698242,
+          25.839449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Hydro Abyss Mage"
       },
       "geometry": {
@@ -607,6 +965,32 @@
         "coordinates": [
           -18.632813,
           70.229744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hydro Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.40625,
+          -27.839076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hydro Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.206055,
+          -29.878755
         ]
       }
     },
@@ -852,8 +1236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -33.947754,
-          -64.463323
+          -33.969727,
+          -64.396938
         ]
       }
     },
@@ -1133,6 +1517,487 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.163086,
+          -5.747174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.138672,
+          -1.45004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.858398,
+          72.033289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.025391,
+          69.380313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.624023,
+          -35.029996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.200195,
+          -61.773123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28.740234,
+          -55.603178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.226563,
+          -30.977609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.133789,
+          -35.782171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.375977,
+          -27.332735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40.385742,
+          -22.350076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.032227,
+          -21.125498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.330078,
+          -10.53102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.563477,
+          9.535749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.522461,
+          11.953349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.195313,
+          2.152814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.955078,
+          -1.054628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.768555,
+          -10.185187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.31543,
+          -13.068777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.817383,
+          -2.152814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.269531,
+          3.469557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.764648,
+          7.188101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.182617,
+          31.316101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25.136719,
+          36.066862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.288086,
+          31.989442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.595703,
+          31.690782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.024414,
+          31.690782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -29.794922,
+          19.435514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.59082,
+          47.606163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.650391,
+          -26.470573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.042969,
+          -32.879587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.582031,
+          -32.583849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.135742,
+          -2.767478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.237305,
+          -14.944785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.863281,
+          -15.114553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.895508,
+          -15.538376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.865234,
+          -10.055403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pyro Abyss Mage"
       },
       "geometry": {
@@ -1218,6 +2083,32 @@
         "coordinates": [
           58.688965,
           -57.468589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pyro Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.625977,
+          -19.642588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruin Grader"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.224609,
+          -27.410786
         ]
       }
     },
@@ -1380,32 +2271,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ruin Hunter"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -56.513672,
-          -69.240579
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Stonehide Lawachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -54.360352,
-          -66.035873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Ruin Guard"
       },
       "geometry": {
@@ -1413,45 +2278,6 @@
         "coordinates": [
           101.733398,
           72.435535
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fatui Electro Cicin Mage"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          101.601563,
-          73.652545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mitachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.163086,
-          -5.747174
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mitachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          17.138672,
-          -1.45004
         ]
       }
     },
@@ -1471,39 +2297,182 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fatui Pyro Agent"
+        "name": "Ruin Guard"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.710938,
-          -4.127285
+          -28.564453,
+          -41.253032
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Mitachurl"
+        "name": "Ruin Guard"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          84.858398,
-          72.033289
+          -56.118164,
+          -14.179186
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Mitachurl"
+        "name": "Ruin Guard"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.025391,
-          69.380313
+          -56.90918,
+          -15.623037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruin Guard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.698242,
+          -0.527336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruin Guard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.302734,
+          -6.926427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruin Guard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.069336,
+          -25.284438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruin Hunter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.513672,
+          -69.240579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruin Hunter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.195313,
+          -37.405074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonehide Lawachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.360352,
+          -66.035873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonehide Lawachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -54.18457,
+          -2.591889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonehide Lawachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.083984,
+          5.441022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonehide Lawachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.476563,
+          31.952162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonehide Lawachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.217773,
+          17.895114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stonehide Lawachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.212891,
+          -22.350076
         ]
       }
     }

@@ -468,6 +468,19 @@
           26.824071
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.126953,
+          -2.504085
+        ]
+      }
     }
   ]
 }
