@@ -1806,6 +1806,58 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.397461,
+          49.95122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.353516,
+          49.852152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.55127,
+          49.908787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bird"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.529297,
+          49.79545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Duck"
       },
       "geometry": {
@@ -2736,6 +2788,97 @@
         "coordinates": [
           93.823242,
           37.892196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.672852,
+          -5.965754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.453125,
+          -6.053161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.220703,
+          37.230328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.77002,
+          37.230328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.989746,
+          37.212832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.240234,
+          72.698839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seagull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.020508,
+          72.777081
         ]
       }
     }

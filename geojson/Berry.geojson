@@ -468,6 +468,240 @@
           49.681847
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.863281,
+          72.26231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.995117,
+          72.26231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.907227,
+          72.309109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.230469,
+          32.62087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.054688,
+          32.602362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.120605,
+          32.731841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.988281,
+          31.466154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.120117,
+          31.522361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.988281,
+          31.634676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.086914,
+          30.259067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.086914,
+          30.145127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.240723,
+          30.221102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.459961,
+          31.802893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.459961,
+          31.672083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.306152,
+          31.728167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.777832,
+          33.247876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.624023,
+          33.339707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.755859,
+          33.394759
+        ]
+      }
     }
   ]
 }

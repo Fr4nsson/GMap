@@ -182,6 +182,71 @@
           49.809632
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Small Lamp Grass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.828857,
+          68.668547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Small Lamp Grass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.982666,
+          68.668547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Small Lamp Grass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.905762,
+          68.740367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Small Lamp Grass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.416016,
+          30.372875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Small Lamp Grass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.394043,
+          30.259067
+        ]
+      }
     }
   ]
 }

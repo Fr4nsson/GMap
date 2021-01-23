@@ -4,614 +4,90 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "* Magical Crystal Chunk",
-        "description": "At bottom"
+        "name": "Cecilia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -25.092773,
-          66.178266
+          101.25,
+          63.253412
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Magical Crystal Chunk",
-        "description": "Inside cave."
+        "name": "Cecilia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.231445,
-          35.755428
+          101.228027,
+          63.322549
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Magical Crystal Chunk",
-        "description": "Inside cave."
+        "name": "Cecilia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          42.165527,
-          35.128894
+          102.260742,
+          63.114638
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "* Magical Crystal Chunk",
-        "description": "Inside cave."
+        "name": "Cecilia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          41.835938,
-          36.137875
+          99.755859,
+          64.091408
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Magical Crystal Chunk"
+        "name": "Cecilia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -5.317383,
-          62.431074
+          99.624023,
+          63.975961
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Magical Crystal Chunk"
+        "name": "Cecilia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.196289,
-          62.471724
+          100.766602,
+          64.434892
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Magical Crystal Chunk"
+        "name": "Cecilia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -15.46875,
-          62.995158
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -15.029297,
-          63.094758
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -24.741211,
-          66.266856
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -24.65332,
-          66.407955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -40.253906,
-          -39.436193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -39.506836,
-          -39.334297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.578613,
-          -61.67945
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -61.281738,
-          -61.669024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.731201,
-          -62.303688
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -65.983887,
-          -62.283256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.264648,
-          -60.196156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -41.704102,
-          -60.608542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -33.486328,
-          -68.366801
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -33.574219,
-          -68.310027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -33.793945,
-          -67.642676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -33.706055,
-          -67.272043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.432617,
-          68.958391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          27.905273,
-          69.021414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          28.432617,
-          69.115611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.697266,
-          59.601095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.741211,
-          59.756395
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.907227,
-          51.99841
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.478516,
-          52.133488
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -74.575195,
-          -10.919618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.732422,
-          -73.837058
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.029297,
-          -74.043723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -60.161133,
-          -74.013493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.87207,
-          -10.919618
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.529785,
-          -6.184246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.881592,
-          -6.293459
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.199951,
-          -4.631179
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.815186,
-          -4.97056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.716309,
-          50.951506
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          37.452393,
-          50.805935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.866211,
-          75.039013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -7.77832,
-          74.970791
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -6.943359,
-          74.947983
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.669922,
-          67.974634
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.977539,
-          67.575717
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.801758,
-          67.676085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Magical Crystal Chunk"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -12.65625,
+          100.634766,
           64.623877
         ]
       }
@@ -619,13 +95,390 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Magical Crystal Chunk"
+        "name": "Cecilia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -12.436523,
-          64.453849
+          100.986328,
+          65.256706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.986328,
+          65.321005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.854492,
+          65.42173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.184082,
+          65.503854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.888672,
+          64.71788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.37207,
+          64.792848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.547852,
+          64.820907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.294922,
+          65.712557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.316895,
+          65.775744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          97.492676,
+          65.784758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.404297,
+          65.201468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.492188,
+          66.302205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.580078,
+          66.425537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.140625,
+          66.425537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.140625,
+          67.016009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.404297,
+          67.169955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.536133,
+          67.246561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.624023,
+          67.033163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.546875,
+          67.407487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.415039,
+          67.525373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.678711,
+          67.592475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.986328,
+          67.441229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.260742,
+          67.642676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.392578,
+          67.584098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.260742,
+          67.500161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.402344,
+          63.352129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.53418,
+          63.154355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.644043,
+          63.203926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.29248,
+          63.154355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cecilia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.402344,
+          63.025074
         ]
       }
     }

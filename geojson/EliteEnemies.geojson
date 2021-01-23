@@ -249,6 +249,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Cryo Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.99707,
+          56.704506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Fatui Electro Cicin Mage"
       },
       "geometry": {
@@ -581,6 +594,19 @@
         "coordinates": [
           12.568359,
           -56.14555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hydro Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18.632813,
+          70.229744
         ]
       }
     },
@@ -951,6 +977,162 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.681641,
+          36.809285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.892578,
+          52.348763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.435547,
+          74.043723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.120117,
+          73.048236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.532227,
+          69.005675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.240234,
+          71.159391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.009766,
+          69.256149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.039063,
+          69.975493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.818359,
+          62.674143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.334961,
+          62.69431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.775391,
+          61.835413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.422852,
+          63.134503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Pyro Abyss Mage"
       },
       "geometry": {
@@ -1159,6 +1341,45 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Ruin Guard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.863281,
+          69.519147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruin Guard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.744629,
+          69.345464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruin Guard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.219727,
+          65.146115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Ruin Hunter"
       },
       "geometry": {
@@ -1185,13 +1406,26 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mitachurl"
+        "name": "Ruin Guard"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          43.681641,
-          36.809285
+          101.733398,
+          72.435535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Electro Cicin Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.601563,
+          73.652545
         ]
       }
     },
@@ -1203,8 +1437,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.892578,
-          52.348763
+          7.163086,
+          -5.747174
         ]
       }
     },
@@ -1216,21 +1450,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -16.435547,
-          74.043723
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mitachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.120117,
-          73.048236
+          17.138672,
+          -1.45004
         ]
       }
     },
@@ -1242,8 +1463,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.863281,
-          69.519147
+          14.633789,
+          -7.536764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Pyro Agent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.710938,
+          -4.127285
         ]
       }
     },
@@ -1255,8 +1489,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          25.532227,
-          69.005675
+          84.858398,
+          72.033289
         ]
       }
     },
@@ -1268,138 +1502,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.240234,
-          71.159391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mitachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -5.009766,
-          69.256149
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ruin Guard"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -10.744629,
-          69.345464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Hydro Abyss Mage"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -18.632813,
-          70.229744
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mitachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -20.039063,
-          69.975493
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mitachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -23.818359,
-          62.674143
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mitachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -23.334961,
-          62.69431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Ruin Guard"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.219727,
-          65.146115
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mitachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.775391,
-          61.835413
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Mitachurl"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.422852,
-          63.134503
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cryo Abyss Mage"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.99707,
-          56.704506
+          76.025391,
+          69.380313
         ]
       }
     }
