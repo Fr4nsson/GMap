@@ -800,6 +800,19 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Boar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.274414,
+          36.5626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Fox",
         "description": ""
       },
@@ -1555,6 +1568,58 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.916016,
+          71.510978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.762207,
+          71.476106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.161133,
+          30.977609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.007324,
+          31.147006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "name": "Squirrel"
       },
       "geometry": {
@@ -1750,52 +1815,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Fox"
+        "name": "Boar"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.916016,
-          71.510978
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fox"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.762207,
-          71.476106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fox"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.161133,
-          30.977609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Fox"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          15.007324,
-          31.147006
+          37.749023,
+          30.448674
         ]
       }
     },
@@ -1807,8 +1833,34 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.274414,
-          36.5626
+          37.177734,
+          30.600094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.485352,
+          30.145127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.946289,
+          30.410782
         ]
       }
     }

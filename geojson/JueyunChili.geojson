@@ -481,6 +481,45 @@
           -2.504085
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.118164,
+          -13.752725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.626953,
+          -39.808536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jueyun Chili"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.417969,
+          -40.078071
+        ]
+      }
     }
   ]
 }

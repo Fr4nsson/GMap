@@ -2475,6 +2475,266 @@
           -22.350076
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.4375,
+          68.236823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cryo Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.285156,
+          70.333533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.669922,
+          68.544315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cryo Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.592773,
+          57.751076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.459961,
+          58.904646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruin Guard"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.865234,
+          61.312452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.664063,
+          21.493964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cryo Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.685547,
+          32.10119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.235352,
+          27.722436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.663086,
+          24.327077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Electro Cicin Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.499023,
+          23.079732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.455078,
+          15.284185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Cryo Cicin Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.863281,
+          22.634293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Pyro Agent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.381836,
+          34.161818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.34082,
+          33.979809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Electro Cicin Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.757813,
+          44.809122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cryo Abyss Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.649414,
+          26.39187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fatui Cryo Cicin Mage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.791992,
+          25.204941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.200195,
+          33.651208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitachurl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.936523,
+          33.394759
+        ]
+      }
     }
   ]
 }
