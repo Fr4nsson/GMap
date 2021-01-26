@@ -22,8 +22,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          75.333252,
-          64.415921
+          75.322266,
+          64.420665
         ]
       }
     },
@@ -48,8 +48,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          82.364502,
-          65.339347
+          82.375488,
+          65.343931
         ]
       }
     },
@@ -62,7 +62,7 @@
         "type": "Point",
         "coordinates": [
           82.375488,
-          65.339347
+          65.343931
         ]
       }
     },
@@ -139,8 +139,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          83.660889,
-          68.568414
+          83.638916,
+          68.572428
         ]
       }
     },
@@ -152,34 +152,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          83.660889,
-          68.568414
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Berry"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.760742,
-          65.603878
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Berry"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          79.771729,
-          65.603878
+          83.638916,
+          68.572428
         ]
       }
     },
@@ -204,8 +178,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          69.65332,
-          64.997939
+          79.760742,
+          65.608415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.760742,
+          65.608415
         ]
       }
     },
@@ -230,8 +217,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          69.65332,
-          65.002582
+          69.664307,
+          65.007224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.664307,
+          65.007224
         ]
       }
     },
@@ -256,8 +256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          63.676758,
-          57.249338
+          63.643799,
+          57.261223
         ]
       }
     },
@@ -269,7 +269,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          63.676758,
+          63.643799,
           57.261223
         ]
       }
@@ -295,7 +295,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          64.02832,
+          64.006348,
           59.237796
         ]
       }
@@ -308,8 +308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          64.039307,
-          59.232176
+          64.006348,
+          59.237796
         ]
       }
     },
@@ -334,8 +334,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.149658,
-          65.599339
+          17.171631,
+          65.603878
         ]
       }
     },
@@ -347,8 +347,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          17.149658,
-          65.599339
+          17.171631,
+          65.603878
         ]
       }
     },
@@ -373,7 +373,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          22.730713,
+          22.719727,
           59.712097
         ]
       }
@@ -387,7 +387,7 @@
         "type": "Point",
         "coordinates": [
           22.719727,
-          59.723177
+          59.712097
         ]
       }
     },
@@ -412,8 +412,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.816895,
-          56.547372
+          29.794922,
+          56.541315
         ]
       }
     },
@@ -425,21 +425,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          29.772949,
-          56.547372
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Berry"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          92.900391,
-          49.745781
+          29.794922,
+          56.541315
         ]
       }
     },
@@ -464,8 +451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          92.911377,
-          49.738682
+          92.922363,
+          49.759978
         ]
       }
     },
@@ -477,8 +464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          109.918213,
-          72.275693
+          92.922363,
+          49.759978
         ]
       }
     },
@@ -503,8 +490,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          109.929199,
-          72.289067
+          109.918213,
+          72.282382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Berry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.918213,
+          72.282382
         ]
       }
     },
@@ -529,8 +529,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.142578,
-          32.630123
+          1.131592,
+          32.648626
         ]
       }
     },
@@ -542,7 +542,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.142578,
+          1.131592,
           32.648626
         ]
       }
@@ -581,8 +581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.065186,
-          31.569175
+          3.054199,
+          31.559815
         ]
       }
     },
@@ -646,7 +646,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.394043,
+          6.416016,
           31.746854
         ]
       }
@@ -659,8 +659,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.405029,
-          31.728167
+          6.416016,
+          31.746854
         ]
       }
     },
@@ -685,7 +685,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.700928,
+          9.711914,
           33.330528
         ]
       }
@@ -698,7 +698,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.7229,
+          9.711914,
           33.330528
         ]
       }

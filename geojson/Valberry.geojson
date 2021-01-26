@@ -9,34 +9,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.028564,
-          72.392383
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Valberry"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.326416,
-          73.922469
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Valberry"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.31543,
-          73.925511
+          108.017578,
+          72.399028
         ]
       }
     },
@@ -61,8 +35,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          103.31543,
-          73.919426
+          103.293457,
+          73.928553
         ]
       }
     },
@@ -74,8 +48,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.689697,
-          73.922469
+          103.293457,
+          73.928553
         ]
       }
     },
@@ -87,8 +61,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.689697,
-          73.925511
+          103.293457,
+          73.928553
         ]
       }
     },
@@ -113,8 +87,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.689697,
-          73.925511
+          100.667725,
+          73.928553
         ]
       }
     },
@@ -126,8 +100,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.943848,
-          73.745056
+          100.667725,
+          73.928553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valberry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.667725,
+          73.928553
         ]
       }
     },
@@ -153,7 +140,7 @@
         "type": "Point",
         "coordinates": [
           94.96582,
-          73.741981
+          73.754279
         ]
       }
     },
@@ -165,8 +152,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          94.954834,
-          73.757352
+          94.96582,
+          73.754279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valberry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.96582,
+          73.754279
         ]
       }
     },
@@ -191,20 +191,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          85.198975,
-          72.255615
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Valberry"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          85.209961,
+          85.155029,
           72.26231
         ]
       }
@@ -217,7 +204,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          85.177002,
+          85.155029,
+          72.26231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valberry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.155029,
           72.26231
         ]
       }
@@ -243,7 +243,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          83.012695,
+          83.001709,
           70.590721
         ]
       }
@@ -256,8 +256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          82.990723,
-          70.598021
+          83.001709,
+          70.590721
         ]
       }
     },
@@ -269,8 +269,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          83.012695,
-          70.598021
+          83.001709,
+          70.590721
         ]
       }
     },
@@ -282,8 +282,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          84.550781,
-          69.088179
+          84.561768,
+          69.09994
         ]
       }
     },
@@ -295,8 +295,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          84.572754,
-          69.084257
+          84.561768,
+          69.09994
         ]
       }
     },
@@ -308,8 +308,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          84.550781,
-          69.084257
+          84.561768,
+          69.09994
         ]
       }
     },
@@ -348,7 +348,7 @@
         "type": "Point",
         "coordinates": [
           87.165527,
-          68.974164
+          68.966279
         ]
       }
     },
@@ -361,7 +361,7 @@
         "type": "Point",
         "coordinates": [
           87.165527,
-          68.974164
+          68.966279
         ]
       }
     },
@@ -373,8 +373,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          87.176514,
-          68.974164
+          87.165527,
+          68.966279
         ]
       }
     },
@@ -386,8 +386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.419922,
-          69.283371
+          80.441895,
+          69.295027
         ]
       }
     },
@@ -399,8 +399,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          80.430908,
-          69.291142
+          80.441895,
+          69.295027
         ]
       }
     },
@@ -451,8 +451,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.586426,
-          70.866291
+          73.575439,
+          70.873491
         ]
       }
     },
@@ -464,8 +464,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.564453,
-          70.880689
+          73.575439,
+          70.873491
         ]
       }
     },
@@ -477,8 +477,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.564453,
-          70.877091
+          73.575439,
+          70.873491
         ]
       }
     },
@@ -503,8 +503,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.101563,
-          72.38241
+          79.123535,
+          72.392383
         ]
       }
     },
@@ -516,7 +516,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          79.101563,
+          79.123535,
           72.392383
         ]
       }
@@ -568,8 +568,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.968994,
-          74.411022
+          81.958008,
+          74.413974
         ]
       }
     },
@@ -581,8 +581,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.936035,
-          74.40807
+          81.958008,
+          74.413974
         ]
       }
     },
@@ -607,8 +607,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.059082,
-          73.955903
+          73.048096,
+          73.958939
         ]
       }
     },
@@ -621,7 +621,7 @@
         "type": "Point",
         "coordinates": [
           73.048096,
-          73.955903
+          73.958939
         ]
       }
     },
@@ -633,8 +633,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.037109,
-          73.952866
+          73.048096,
+          73.958939
         ]
       }
     },
@@ -647,19 +647,6 @@
         "type": "Point",
         "coordinates": [
           66.983643,
-          71.127434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Valberry"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          66.994629,
           71.127434
         ]
       }
@@ -686,7 +673,20 @@
         "type": "Point",
         "coordinates": [
           66.983643,
-          71.120326
+          71.127434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valberry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.983643,
+          71.127434
         ]
       }
     },
@@ -712,7 +712,7 @@
         "type": "Point",
         "coordinates": [
           62.380371,
-          71.127434
+          71.138093
         ]
       }
     },
@@ -725,7 +725,7 @@
         "type": "Point",
         "coordinates": [
           62.380371,
-          71.130988
+          71.138093
         ]
       }
     },
@@ -737,7 +737,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.402344,
+          62.380371,
           71.138093
         ]
       }
@@ -763,7 +763,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.86377,
+          62.874756,
           68.334376
         ]
       }
@@ -776,8 +776,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          62.841797,
-          68.338432
+          62.874756,
+          68.334376
         ]
       }
     },
@@ -790,20 +790,7 @@
         "type": "Point",
         "coordinates": [
           62.874756,
-          68.338432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Valberry"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          65.467529,
-          67.600849
+          68.334376
         ]
       }
     },
@@ -828,8 +815,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          65.478516,
-          67.605035
+          65.489502,
+          67.609221
         ]
       }
     },
@@ -841,8 +828,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          65.500488,
-          67.613405
+          65.489502,
+          67.609221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valberry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          65.489502,
+          67.609221
         ]
       }
     },
@@ -867,7 +867,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          69.005127,
+          69.0271,
           69.244472
         ]
       }
@@ -880,8 +880,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          69.038086,
-          69.236684
+          69.0271,
+          69.244472
         ]
       }
     },
@@ -893,7 +893,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          69.049072,
+          69.0271,
           69.244472
         ]
       }
@@ -919,8 +919,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.59668,
-          69.029279
+          76.574707,
+          69.033211
         ]
       }
     },
@@ -933,7 +933,7 @@
         "type": "Point",
         "coordinates": [
           76.574707,
-          69.01748
+          69.033211
         ]
       }
     },
@@ -945,8 +945,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          76.59668,
-          69.021414
+          76.574707,
+          69.033211
         ]
       }
     },
@@ -971,7 +971,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.039551,
+          108.017578,
           72.399028
         ]
       }
@@ -984,7 +984,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          108.039551,
+          108.017578,
           72.399028
         ]
       }
